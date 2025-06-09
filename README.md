@@ -66,6 +66,8 @@ The system is designed to be:
 - 📢 Uses `ChatOpenAI` for LLM-powered analysis
 - 📝 Multi-turn conversational support
 - 🛠️ Code in: `llm_agent.py`
+  
+![Data Analytics Agent](https://github.com/sagar-maru/Data-Analytics-Agent-Systems/blob/main/Project%20Documentation%20-%20Video%20-%20Images/Images/UI_DataFrame_Agent_With_Chat_History.png)
 
 ### 📚 Context Agent
 
@@ -75,6 +77,8 @@ The system is designed to be:
 - 💬 Allows natural language question-answering
 - 🛠️ Code in: `rag_agent.py`
 
+![Context Agent](https://github.com/sagar-maru/Data-Analytics-Agent-Systems/blob/main/Project%20Documentation%20-%20Video%20-%20Images/Images/UI_Context_Agent_With_Chat_Summarization%20.png)
+
 ### 🗃️ SQL Agent
 
 - 🗄️ Accepts SQLite DB files
@@ -82,6 +86,8 @@ The system is designed to be:
 - 📊 Executes intelligent SQL queries via LangChain
 - 🔎 Returns insights + actual SQL code
 - 🛠️ Code in: `sql_agent.py`
+
+![SQL Agent](https://github.com/sagar-maru/Data-Analytics-Agent-Systems/blob/main/Project%20Documentation%20-%20Video%20-%20Images/Images/UI_SQL_Agent_Chat_Prompt.png)
 
 ---
 
@@ -132,6 +138,8 @@ Every API call is protected by a **Bearer Token** system:
 - 🔄 Refresh tokens automatically before expiry
 - 🔐 Stored in Streamlit session state
 
+![Authentication System](https://github.com/sagar-maru/Data-Analytics-Agent-Systems/blob/main/Project%20Documentation%20-%20Video%20-%20Images/Images/APIs_Token_Based_Authentication.png)
+
 ---
 
 ## 🌐 API Endpoints
@@ -148,6 +156,8 @@ Here are the available endpoints in the backend (FastAPI):
 | `/context`         | Query document (RAG)                |
 | `/sql`             | Query SQL database                  |
 
+![API Endpoints](https://github.com/sagar-maru/Data-Analytics-Agent-Systems/blob/main/Project%20Documentation%20-%20Video%20-%20Images/Images/APIs_Based_on_FastAPI.png)
+
 ---
 
 ## 🖥️ Streamlit UI
@@ -159,6 +169,8 @@ The UI provides a conversational interface for interaction:
 - 🧠 Get intelligent responses
 - 📝 View conversational history
 - ⏳ See loading animations while responses are processed
+
+![Streamlit UI](https://github.com/sagar-maru/Data-Analytics-Agent-Systems/blob/main/Project%20Documentation%20-%20Video%20-%20Images/Images/User_Interface_Based_on_Streamlit.png)
 
 ---
 
