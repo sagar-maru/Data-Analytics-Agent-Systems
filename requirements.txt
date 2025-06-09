@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+streamlit
+openai
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-experimental
+faiss-cpu
+tiktoken
+tabulate
+sqlalchemy
+pymysql
+psycopg2-binary

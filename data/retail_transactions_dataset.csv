@@ -1,0 +1,21 @@
+Order ID,Date,Month,Year,Customer Segment,Product Category,Description,Sales (USD),Profit (USD),Review
+ORD-1,12-01-2025,January,2025,Consumer,Furniture,Compact printer suitable for home use.,250,-50,The product quality was poor and delivery was late.
+ORD-2,15-01-2025,January,2025,Corporate,Technology,Wireless mouse with ergonomic design.,300,80,Great experience overall.
+ORD-3,03-02-2025,February,2025,Home Office,Office Supplies,High-end ergonomic chair with lumbar support.,150,20,Not satisfied with the product.
+ORD-4,19-02-2025,February,2025,Consumer,Furniture,Affordable office desk with spacious drawers.,400,-100,Excellent service and prompt delivery.
+ORD-5,11-03-2025,March,2025,Home Office,Office Supplies,Set of 12 ballpoint pens.,25,10,Decent quality for the price.
+ORD-6,18-04-2025,April,2025,Home Office,Technology,"Basic laser printer, black and white.",200,30,"Quick setup, works fine."
+ORD-7,02-05-2025,May,2025,Consumer,Office Supplies,Stapler and 500 staples combo pack.,200,-75,"Fast shipping, does not work well."
+ORD-8,17-05-2025,May,2025,Corporate,Technology,High-speed external SSD (1TB).,400,120,Excellent performance.
+ORD-9,06-06-2025,June,2025,Consumer,Office Supplies,Pack of A4 notebooks (10 units).,35,8,Good paper quality.
+ORD-10,14-06-2025,June,2025,Corporate,Furniture,Modular workstation for 2 employees.,800,200,Good investment for our team.
+ORD-11,01-07-2025,July,2025,Home Office,Technology,Wireless keyboard and mouse combo.,90,18,Works as expected.
+ORD-12,19-07-2025,July,2025,Consumer,Furniture,Foldable study table with adjustable height.,220,30,Very practical and stylish.
+ORD-13,02-08-2025,August,2025,Corporate,Office Supplies,Executive pens with metallic finish.,55,12,Impressive design.
+ORD-14,12-08-2025,August,2025,Home Office,Technology,Portable speaker with Bluetooth.,60,-5,Disappointing battery life.
+ORD-15,03-09-2025,September,2025,Consumer,Furniture,Wall-mounted shelf unit (wooden).,145,22,Easy to install.
+ORD-16,22-09-2025,September,2025,Corporate,Technology,Dual monitor stand with adjustable arms.,75,25,Sturdy and flexible.
+ORD-17,08-10-2025,October,2025,Home Office,Office Supplies,Desktop organizer tray set.,40,5,Keeps my workspace tidy.
+ORD-18,23-10-2025,October,2025,Consumer,Technology,Smart plug with voice control.,450,-120,Does not works perfectly with Alexa.
+ORD-19,11-11-2025,November,2025,Corporate,Furniture,Office lounge chair with leather finish.,420,95,Great for client waiting area.
+ORD-20,05-12-2025,December,2025,Consumer,Technology,Webcam with HD resolution and mic.,70,18,Sharp video quality.
