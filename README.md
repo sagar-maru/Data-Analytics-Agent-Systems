@@ -277,8 +277,11 @@ This project is open-source under the [MIT License](LICENSE). You're welcome to 
 
 ## 📫 Contact
 
-Created by **Sagar Maru**
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sagarmaru)
+👨‍💻 Created by **Sagar Maru**
+
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/sagarmaru)  
+📊 [Kaggle Notebooks](https://www.kaggle.com/marusagar)  
+🐙 [GitHub Projects](https://github.com/sagar-maru)  
 
 Feel free to reach out for collaboration, issues, or ideas!
 
@@ -287,10 +290,3 @@ Feel free to reach out for collaboration, issues, or ideas!
 > 💡 *AI Analytics Agent System brings the power of large language models to your data — whether it's a spreadsheet, a long report, or an entire database. Talk to your data today!*
 
 ---
-
-```
-
----
-
-Let me know if you’d like this content saved into a `.md` file or edited further for deployment on GitHub.
-```
